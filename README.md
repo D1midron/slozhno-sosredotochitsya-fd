@@ -1,1 +1,1 @@
-https://github.com/D1midron/posmotri-v-okno-fd
+https://github.com/D1midron/slozhno-sosredotochitsya-fd
