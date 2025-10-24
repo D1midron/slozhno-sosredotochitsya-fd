@@ -387,7 +387,6 @@
 @media (width >=1024px) {
   .header {
     grid-template-rows: 1fr min-content 1fr;
-
   }
 
   .header__theme-menu {
@@ -401,7 +400,7 @@
 
   .header__theme-menu-list {
     display: flex;
-    gap:1px;
+    gap: 1px;
     flex-direction: row;
   }
 
