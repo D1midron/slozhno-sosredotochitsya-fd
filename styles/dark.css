@@ -6,13 +6,14 @@
 
 :root.theme-dark {
   --main-bg-image: url("../images/cover-image-dark.png");
-  --accent-color:#FF0070;
+  --accent-color: #ff0070;
   --main-bg-color: #000028;
-  --color-border-bottom:#FF0070;
-  --main-text-color: #DB00FF;
-  --title-text-color:#FF0070;
-  --text-color:#F1B2CE;
-  --text-color-outline:#FF007066;
+  --color-border-bottom: #ff0070;
+  --main-text-color: #db00ff;
+  --title-text-color: #ff0070;
+  --text-color-border: #ff0070;
+  --text-color: #f1b2ce;
+  --text-color-outline: #ff007066;
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
