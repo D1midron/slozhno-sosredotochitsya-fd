@@ -1,1 +1,1 @@
-https://github.com/D1midron/slozhno-sosredotochitsya-fd
+https://github.com/D1midron/ono-tebe-nado-fd
